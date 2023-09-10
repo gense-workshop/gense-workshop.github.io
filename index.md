@@ -31,7 +31,7 @@ werden kann. In Anwendungen mit hohem Risiko wie Gesundheit kann dies
 katrastophale Folgen haben. In der Software-Entwicklung kann die Verwendung von
 generativen Modellen in Softwarefehler oder Sicherheitslücken resultieren.
 Aktuell werden verschiedene Ansätze wie Evaluation-Frameworks, Integration
-von Tools in den LLM-Output [PZF22; Sc23] und Kausalität erforscht, um diese
+von Tools in den LLM-Output und Kausalität erforscht, um diese
 Probleme zu vermeiden. Eine Ergänzung der Deep-Learning-Systeme um symbolisch
 Lern- und Schlussfolgerungsmethoden wird als neurosymbolische KI bezeichnet.
 Gerade diese Ansätze sind vielversprechend, wenn es darum geht, unter Einbeziehung von
