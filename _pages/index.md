@@ -7,8 +7,6 @@ title: Workshop Generative und Neurosymbolische KI im Software-Engineering (GenS
 permalink: /
 ---
 
-# Wilkommen zum Workshop Generative und Neurosymbolische KI im Software Engineering (GenSE) 2024!
-
 ## Motivation
 
 Generative Methoden haben die Entwicklungen im Bereich Künstliche Intelligenz (KI)
