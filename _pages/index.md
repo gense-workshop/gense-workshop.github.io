@@ -3,9 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Workshop Generative und Neurosymbolische KI im Software-Engineering (GenSE 2024)
+title: Home
 permalink: /
 ---
+
+# Workshop Generative und Neurosymbolische KI im Software-Engineering (GenSE 2024)
 
 ## Motivation
 
