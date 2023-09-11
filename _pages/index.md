@@ -47,3 +47,9 @@ willkommen, insbesondere jene, bei denen KI-Methoden noch nicht bzw. nicht ausre
 erforscht sind. Der praktische Einsatz neurosymbolischer Verfahren wie vorhin beschrieben
 sind ausdrücklich erwünscht. Der Workshop richtet sich sowohl an Forscher:Innen und
 Wissenschaftler:Innen als auch Entwickler:Innen und Anwender:Innen aus der Industrie.
+
+## Organisation
+- Rubén Ruiz Torrubiano, Senior Lecturer, IMC Krems University of Applied Sciences.
+- Alois Haselböck, Senior Scientist, Siemens AG Österreich.
+- Danilo Valerio, Senior Scientist, Siemens AG Österreich.
+
