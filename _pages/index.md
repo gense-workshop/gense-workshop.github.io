@@ -49,7 +49,7 @@ sind ausdrücklich erwünscht. Der Workshop richtet sich sowohl an Forscher:Inne
 Wissenschaftler:Innen als auch Entwickler:Innen und Anwender:Innen aus der Industrie.
 
 ## Organisation
-- Rubén Ruiz Torrubiano, Senior Lecturer, IMC Krems University of Applied Sciences.
-- Alois Haselböck, Senior Scientist, Siemens AG Österreich.
-- Danilo Valerio, Senior Scientist, Siemens AG Österreich.
+- [Dr. Rubén Ruiz Torrubiano](https://www.fh-krems.ac.at/fachhochschule/team/ruben-ruiz-torrubiano/), Senior Lecturer, [IMC Krems University of Applied Sciences](https://www.fh-krems.ac.at/).
+- Dr. Alois Haselböck, Senior Scientist, Siemens AG Österreich.
+- Dr. Danilo Valerio, Senior Scientist, Siemens AG Österreich.
 
