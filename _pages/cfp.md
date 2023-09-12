@@ -35,4 +35,4 @@ Für angenommene Einreichungen wird von mindestens einer:m der Autor:Innen eine 
 
 Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: [Dr. Rubén Ruiz Torrubiano](https://www.fh-krems.ac.at/fachhochschule/team/ruben-ruiz-torrubiano/)
 
-Der CfP ist auch als PDF-Dokument [hier](cfp_print.pdf) verfügbar.
+Der CfP ist auch als PDF-Dokument [hier]({{ site.url }}/downloads/cfp_print.pdf) verfügbar.
