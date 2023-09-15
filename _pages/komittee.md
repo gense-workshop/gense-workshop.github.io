@@ -4,4 +4,4 @@ title: Programmkomittee
 permalink: /komittee/
 ---
 
-This is the program committee page.
+Wir werden hier demnächst die Namen der Mitglieder des Programmkomittees veröffentlichen. 

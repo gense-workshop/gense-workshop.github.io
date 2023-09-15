@@ -4,6 +4,8 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
+For an English version of this Call for Papers click [hier]({{ site.url }}/downloads/cfp_print_en.pdf).
+
 Generative KI-Modelle zur Generierung von Computer-Code oder strukturierter Daten werden zunehmend wichtige Werkzeuge im Software-Engineering. Fehlerhafte Outputs können jedoch Programmfehler und Schaden in den Anwendungen bewirken. In diesem Workshop werden diese Risiken und verschiedene Lösungsansätze diskutiert. Zum Beispiel können neuro-symbolische Methoden, also die Kombination von lernenden Systemen und symbolischen, logischen Ansätzen, vielversprechend sein.
 
 Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folgenden Themen sind erwünscht (die Liste ist nicht vollständig oder exklusiv):
