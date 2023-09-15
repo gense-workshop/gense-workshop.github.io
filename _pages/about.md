@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the about page.
+**Under construction**
+
+Wir werden hier demnächst Informationen über die Organisatoren und Keynote-Speaker veröffentlichen!

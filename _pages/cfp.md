@@ -18,6 +18,7 @@ Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folge
 -   KI-Unterstützte No-Code oder Low-Code Ansätze
 -   Security in KI-generiertem Code
 -	Anwendungen und Erfahrungen im industriellen Umfeld
+-   AIOps
 
 ### Wichtige Termine
 Einreichungsfrist: Freitag 27.10.2023  
