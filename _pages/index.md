@@ -9,6 +9,8 @@ permalink: /
 
 # Workshop Generative und Neurosymbolische KI im Software-Engineering (GenSE 2024)
 
+<center><font size="5"><b>27.02.2024 Johannes Kepler Universität Linz, Austria</b></font></center>
+
 ## Motivation
 
 Generative Methoden haben die Entwicklungen im Bereich Künstliche Intelligenz (KI)
