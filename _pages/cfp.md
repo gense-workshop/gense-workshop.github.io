@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-For an English version of this Call for Papers click [hier]({{ site.url }}/downloads/cfp_print_en.pdf).
+**For an English version of this Call for Papers click [hier]({{ site.url }}/downloads/cfp_print_en.pdf).**
 
 Generative KI-Modelle zur Generierung von Computer-Code oder strukturierter Daten werden zunehmend wichtige Werkzeuge im Software-Engineering. Fehlerhafte Outputs können jedoch Programmfehler und Schaden in den Anwendungen bewirken. In diesem Workshop werden diese Risiken und verschiedene Lösungsansätze diskutiert. Zum Beispiel können neuro-symbolische Methoden, also die Kombination von lernenden Systemen und symbolischen, logischen Ansätzen, vielversprechend sein.
 
@@ -23,10 +23,10 @@ Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folge
 -   AIOps
 
 ### Wichtige Termine
-Einreichungsfrist: Freitag 27.10.2023  
-Benachrichtigungen: Freitag 17.11.2023  
-Finale Version: Freitag 1.12.2023  
-Datum des Workshops: 27.02.2024
+- Einreichungsfrist: <s>Freitag 27.10.2023</s> <b>Freitag 10.11.2023 (AoE)</b>  
+- Benachrichtigungen: <s>Freitag 17.11.2023</s> <b>Mittwoch 22.11.2023</b>   
+- Finale Version: Freitag 1.12.2023  
+- Datum des Workshops: 26.02.2024
 
 ### Guidelines
 - Die Einreichung eines Beitrags (6-12 Seiten) erfolgt über EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=gense2024).

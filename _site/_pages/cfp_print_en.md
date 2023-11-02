@@ -19,10 +19,10 @@ Researchers and practitioners are invited to submit contributions to the followi
 -   AIOps
 
 ### Important dates
-Submission deadline: Friday Oct 27 2023  
-Author notifications: Friday Nov 17 2023  
-Camera-ready version: Friday Dec 1 2023  
-Workshop date: Tuesday Feb 27 2024
+- <font color="ff0000">Paper submission: <s>October 27 2023</s> <b>November 11 2023 (AoE)</b></font> 
+- Author notifications: November 22 2023  
+- Camera-ready version: December 1 2023  
+- Workshop date: February 26 2024
 
 ### Guidelines
 - Contributions (6-12 pages) will be sent via Easychar using the following [link](https://easychair.org/conferences/?conf=gense2024).

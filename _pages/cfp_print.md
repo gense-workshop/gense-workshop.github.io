@@ -18,10 +18,10 @@ Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folge
 -   AIOps
 
 ### Wichtige Termine
-Einreichungsfrist: Freitag 27.10.2023  
-Benachrichtigungen: Freitag 17.11.2023  
-Finale Version: Freitag 1.12.2023  
-Datum des Workshops: 27.02.2024
+- <font color="ff0000">Einreichungsfrist: <s>Freitag 27.10.2023</s> <b>Freitag 10.11.2023 (AoE)</b></font>
+- Benachrichtigungen: <s>Freitag 17.11.2023</s> <b>Mittwoch 22.11.2023</b>   
+- Finale Version: Freitag 1.12.2023  
+- Datum des Workshops: 26.02.2024
 
 ### Guidelines
 - Die Einreichung eines Beitrags (6-12 Seiten) erfolgt über EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=gense2024).

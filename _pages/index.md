@@ -7,9 +7,20 @@ title: Home
 permalink: /
 ---
 
-# Workshop Generative und Neurosymbolische KI im Software-Engineering (GenSE 2024)
+# Workshop Generative und Neurosymbolic AI in Software Engineering (GenSE 2024)
 
 <center><font size="5"><b>26.02.2024 Johannes Kepler Universität Linz, Austria</b></font></center>
+
+<p></p>
+<h2><b><font color="ff0000">Paper submission deadline extended: 10.11.2023 (AoE)</font></b></h2>
+
+<h3><b>New dates</b></h3>
+- Paper submission: <s>October 27 2023</s> <b>November 11 2023 (AoE)</b>
+- Author notifications: November 22 2023  
+- Camera-ready version: December 1 2023  
+- Workshop: February 26 2024
+
+**See Call for Papers [hier]({{ site.url }}/downloads/cfp_print_en.pdf).**
 
 ## Motivation
 
