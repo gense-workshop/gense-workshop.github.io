@@ -35,6 +35,7 @@ plugins:
 header_pages:
   - _pages/index.md
   - _pages/cfp.md
+  - _pages/program.md
   - _pages/komittee.md
   - _pages/about.md
 
