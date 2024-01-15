@@ -45,23 +45,21 @@ permalink: /programm/
                     </tr>
                     <tr>
                         <td class="time">16:00 - 16:10 </td>
-                        <td class="session">Rubén Ruiz-Torrubiano
+                        <td class="session">Dr. Rubén Ruiz-Torrubiano
                             <br>
                             <span class="sub-title">Introduction to Generative AI in Software Engineering Teaching</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="time">16:10 - 16:40 </td>
-                        <td class="session">TBD
+                        <td class="session">Prof. Dr. Kurt Schneider
                             <br>
-                            <span class="sub-title">Presentation of challenges and issues in current SE teaching</span>
+                            <span class="sub-title">Presentation of challenges and issues of Generative AI in current SE teaching</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="time">16:40 - 17:30 </td>
-                        <td class="session">TBD
-                            <br>
-                            <span class="sub-title">Panel discussion</span>
+                        <td class="session">Panel discussion: Generative AI in SE teaching
                         </td>
                     </tr>
                     <tr>
