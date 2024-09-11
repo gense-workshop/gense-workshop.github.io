@@ -7,62 +7,29 @@ title: Home
 permalink: /
 ---
 
-# Workshop Generative und Neurosymbolic AI in Software Engineering (GenSE 2024)
+# 2nd Workshop on Generative and Neurosymbolic AI in Software Engineering (GenSE 2025)
 
-<center><font size="5"><b>26.02.2024 Johannes Kepler Universität Linz, Austria</b></font></center>
+<center><font size="5"><b>February 24-25 2025, Karlsruhe Institute of Technology </b></font></center>
 
 <p></p>
-<h2><b><font color="ff0000">Paper submission deadline extended: 10.11.2023 (AoE)</font></b></h2>
+<h3><b>Important dates</b></h3>
+- Paper submission: October 28 2024 (AoE)
+- Author notifications: November 28 2024 (AoE)  
+- Camera-ready version: December 9 2024 (AoE)  
+- Workshop: February 24-25 2024
 
-<h3><b>New dates</b></h3>
-- Paper submission: <s>October 27 2023</s> <b>November 11 2023 (AoE)</b>
-- Author notifications: November 22 2023  
-- Camera-ready version: December 1 2023  
-- Workshop: February 26 2024
 
 **See Call for Papers [hier]({{ site.url }}/downloads/cfp_print_en.pdf).**
 
 ## Motivation
 
-Generative Methoden haben die Entwicklungen im Bereich Künstliche Intelligenz (KI)
-im vergangenen Jahr stark geprägt, angenfangen von der Release von ChatGPT,
-über GPT-4 bis hin zu Open-Source Modellen wie Llama-2. Vieler dieser
-Entwicklungen haben ihren Ursprung in derWeiterentwicklung der Transformer-Architektur. 
-Wenn ein Transformer mit einer großen Menge an Daten trainiert wird, was in
-Modellen mit vielen Millionen Parametern resultieren kann, spricht man von einem Large
-Language Model (LLM). Obwohl die Transformer-Architektur und der zugrundeliegende
-Attention-Mechanismus ihren Ursprung im Bereich von maschinellem Übersetzen hat, sind
-aktuell die meisten Anwendungen als Chatbots populär geworden. Solche Anwendungen
-haben auch gezeigt, dass generative Modelle nicht nur natürliche Sprache sehr gut verarbeiten
-können, sondern auch Code in gängigen Programmiersprachen wie Python oder Java (wie
-z.B. Codex oder AlphaCode) erzeugen können. Die automatische Generierung
-von Computer-Code anhand einer Beschreibung in natürlicher Sprache kann als die erste
-Anwendung von generativen Modellen in der Software-Entwicklung betrachtet werden.
-Trotzdem ist aktuell die Anwendung von generativen Modellen in der Praxis mit Risiken
-behaftet, da die Richtigkeit und Zuverlässigkeit der Outputs solcher Modelle nicht garantiert
-werden kann. In Anwendungen mit hohem Risiko wie Gesundheit kann dies
-katrastophale Folgen haben. In der Software-Entwicklung kann die Verwendung von
-generativen Modellen in Softwarefehler oder Sicherheitslücken resultieren.
-Aktuell werden verschiedene Ansätze wie Evaluation-Frameworks, Integration
-von Tools in den LLM-Output und Kausalität erforscht, um diese
-Probleme zu vermeiden. Eine Ergänzung der Deep-Learning-Systeme um symbolisch
-Lern- und Schlussfolgerungsmethoden wird als neurosymbolische KI bezeichnet.
-Gerade diese Ansätze sind vielversprechend, wenn es darum geht, unter Einbeziehung von
-strukturiertem Domänenwissen und logischen Beweisansätzen die Resultate von generativen
-KIs zuverlässig und erklärbar zu machen.
+Generative methods have significantly shaped developments in the field of Artificial Intelligence (AI) in recent years, starting with the release of ChatGPT, followed by GPT-4, and extending to open-source models like Llama-3. Many of these developments stem from the advancements resulting in the transformer architecture. When transformer are trained with a large amount of textual or multi-modal data, which can result in models with millions of parameters, it is referred to as a Large Language Model (LLM). Although the Transformer architecture and the underlying attention mechanism originated in the field of machine translation, most current applications have become popular as chatbots. These applications have also demonstrated that generative models can not only process natural language very well but also generate code in common programming languages like Python or Java (e.g., Codex or AlphaCode). The automatic generation of computer code based on a description in natural language can be considered as the first application of generative AI in software development. However, the practical use of generative models carries important risks, since the correctness and reliability of such models' outputs cannot be guaranteed. In high-risk applications like healthcare, this can have catastrophic consequences. In software development, the use of generative models may result in software bugs or security vulnerabilities. Currently, various approaches, such as evaluation frameworks, integrating tools into the LLM output, and causality, are being researched to avoid these problems. The combination of symbolic learning and reasoning methods with deep learning systems is referred to as neuro-symbolic AI. These approaches are particularly promising when it comes to making the results of generative AI reliable and explainable by incorporating structured domain knowledge and logical reasoning methods.
 
-## Ziele 
-Als Arbeitsziele dieses Workshops betrachten wir folgende Aspekte: (i) Herausforderungen
-beim Einsatz von generativen KI-Methoden im Software-Engineering diskutieren und (ii)
-Lösungsansätze zu den davor genannten Risiken und Herausforderungen vorschlagen und
-validieren. Beiträge zu diesen Themen aus allen Bereichen der Software-Entwicklung sind
-willkommen, insbesondere jene, bei denen KI-Methoden noch nicht bzw. nicht ausreichend
-erforscht sind. Der praktische Einsatz neurosymbolischer Verfahren wie vorhin beschrieben
-sind ausdrücklich erwünscht. Der Workshop richtet sich sowohl an Forscher:Innen und
-Wissenschaftler:Innen als auch Entwickler:Innen und Anwender:Innen aus der Industrie.
+## Goals of the Workshop 
+The goals of this workshop are as follows: (i) to discuss challenges in the use of generative AI methods in software engineering, and (ii) to propose and validate solutions to the aforementioned risks and challenges. Contributions on these topics from all areas of software development are welcome, especially those where AI methods have not yet been or have not been sufficiently explored. The practical application of neuro-symbolic approaches, as previously described, is expressly encouraged. The workshop is aimed at researchers and scientists, as well as developers and practitioners from industry.
 
 ## Organisation
-- [Dr. Rubén Ruiz Torrubiano](https://www.fh-krems.ac.at/fachhochschule/team/ruben-ruiz-torrubiano/), Senior Lecturer, [IMC Krems University of Applied Sciences](https://www.fh-krems.ac.at/).
+- [Prof.(FH) Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano), Professor (FH), [IMC Krems University of Applied Sciences](https://www.imc.ac.at/).
 - Dr. Alois Haselböck, Senior Scientist, Siemens AG Österreich.
 - Dr. Danilo Valerio, Senior Scientist, Siemens AG Österreich.
 

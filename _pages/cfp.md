@@ -4,38 +4,37 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**For an English version of this Call for Papers click [hier]({{ site.url }}/downloads/cfp_print_en.pdf).**
 
-Generative KI-Modelle zur Generierung von Computer-Code oder strukturierter Daten werden zunehmend wichtige Werkzeuge im Software-Engineering. Fehlerhafte Outputs können jedoch Programmfehler und Schaden in den Anwendungen bewirken. In diesem Workshop werden diese Risiken und verschiedene Lösungsansätze diskutiert. Zum Beispiel können neuro-symbolische Methoden, also die Kombination von lernenden Systemen und symbolischen, logischen Ansätzen, vielversprechend sein.
+Generative AI models that generate source code or structured data are becoming important tools in software engineering. However, erroneous or incorrect outputs can cause faults leading to errors in software applications. In this workshop we will discuss these risks and approaches to solve them. In particular, neurosymbolic methods that combine data-driven learning systems and symbolic, logical approaches represent a promising path.
 
-Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folgenden Themen sind erwünscht (die Liste ist nicht vollständig oder exklusiv):
--	Generative KI-Methoden im Software-Engineering
--	Neuro-symbolische Ansätze im Software-Engineering
--	Risiken beim Einsatz von generativen KI-Methoden im Software-Engineering
--	KI-Modelle generieren Code
--	KI-Modelle generieren Daten, etwa in einer domänenspezifischen Sprache
--	Vermeidung von fehlerhaft generiertem Code oder fehlerhaft generierten Daten
--	Integration von symbolischen Methoden in der Generierung der Modelle
--	Einsatz von symbolischen Methoden zur Verifikation bzw. zur Korrektur der Outputs
--   KI-Unterstützte No-Code oder Low-Code Ansätze
--   Security in KI-generiertem Code
--	Anwendungen und Erfahrungen im industriellen Umfeld
+Researchers and practitioners are invited to submit contributions to the following topics (this list is not exhaustive):
+
+-	Generative AI methods in software engineering.
+-	Neurosymbolic approaches applied to software engineering problems.
+-	Risks of the application of generative AI methods in software engineering.
+-	AI-generated computer code.
+-	AI-generated structured data (e.g. as instances of domain-specific languages).
+-	Generation of error-free source code and/or structure data (including testing).
+-	Integration of symbolic approaches in generative models.
+-	Uses of symbolic methods for verification/correction of model outputs.
+-   AI-supported No-Code or Low-Code approaches.
+-   Security in AI-generated code.
+-	Industrial applications.
 -   AIOps
 
-### Wichtige Termine
-- Einreichungsfrist: <s>Freitag 27.10.2023</s> <b>Freitag 10.11.2023 (AoE)</b>  
-- Benachrichtigungen: <s>Freitag 17.11.2023</s> <b>Mittwoch 22.11.2023</b>   
-- Finale Version: Freitag 1.12.2023  
-- Datum des Workshops: 26.02.2024
+### Important dates
+- Paper submission: October 28 2024 (AoE)
+- Author notifications: November 28 2024 (AoE)  
+- Camera-ready version: December 9 2024 (AoE)  
+- Workshop: February 24-25 2024
 
 ### Guidelines
-- Die Einreichung eines Beitrags (6-12 Seiten) erfolgt über EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=gense2024).
-- Einreichungen können auf Deutsch oder Englisch erfolgen.
-- Als Format sollte die GI [LNI-Vorlage](https://github.com/gi-ev/LNI) (1-spaltiges A4-Format) verwendet werden.
-- Alle Einreichungen werden einem Peer-Review durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden als gemeinsamer Tagungsband in der Digital Library der Gesellschaft für Informatik (GI e.V.) publiziert. 
+- Contributions (6-12 pages) will be sent via Easychar using the following [link](https://easychair.org/conferences/?conf=gense2024).
+- Contributions can be submitted in German or English language.
+- All contributions shall use the GI [LNI-Template](https://github.com/gi-ev/LNI) (single-column A4 format).
+- All contributions will be peer-reviewed by the program committee. Accepted papers will be published in the conference proceedings (Digital Library der Gesellschaft für Informatik (GI e.V.). 
 
-Für angenommene Einreichungen wird von mindestens einer:m der Autor:Innen eine Registrierung für den Workshop (Deadline: 1.12.2023) und die Präsentation der Arbeit erwartet.
+At least one of the authors has to register and attend the workshop to present their contribution (registration deadline: Dec 1 2023).
 
-Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: [Dr. Rubén Ruiz Torrubiano](https://www.fh-krems.ac.at/fachhochschule/team/ruben-ruiz-torrubiano/)
+For all questions/problems please refer to the workshop organizers: [Prof.(FH) Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano)
 
-Der CfP ist auch als PDF-Dokument [hier]({{ site.url }}/downloads/cfp_print.pdf) verfügbar.
