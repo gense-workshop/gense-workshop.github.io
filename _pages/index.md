@@ -19,14 +19,17 @@ permalink: /
 - Workshop: February 24-25 2024
 
 
-**See Call for Papers [hier]({{ site.url }}/downloads/cfp_print_en.pdf).**
-
 ## Motivation
 
 Generative methods have significantly shaped developments in the field of Artificial Intelligence (AI) in recent years, starting with the release of ChatGPT, followed by GPT-4, and extending to open-source models like Llama-3. Many of these developments stem from the advancements resulting in the transformer architecture. When transformer are trained with a large amount of textual or multi-modal data, which can result in models with millions of parameters, it is referred to as a Large Language Model (LLM). Although the Transformer architecture and the underlying attention mechanism originated in the field of machine translation, most current applications have become popular as chatbots. These applications have also demonstrated that generative models can not only process natural language very well but also generate code in common programming languages like Python or Java (e.g., Codex or AlphaCode). The automatic generation of computer code based on a description in natural language can be considered as the first application of generative AI in software development. However, the practical use of generative models carries important risks, since the correctness and reliability of such models' outputs cannot be guaranteed. In high-risk applications like healthcare, this can have catastrophic consequences. In software development, the use of generative models may result in software bugs or security vulnerabilities. Currently, various approaches, such as evaluation frameworks, integrating tools into the LLM output, and causality, are being researched to avoid these problems. The combination of symbolic learning and reasoning methods with deep learning systems is referred to as neuro-symbolic AI. These approaches are particularly promising when it comes to making the results of generative AI reliable and explainable by incorporating structured domain knowledge and logical reasoning methods.
 
 ## Goals of the Workshop 
-The goals of this workshop are as follows: (i) to discuss challenges in the use of generative AI methods in software engineering, and (ii) to propose and validate solutions to the aforementioned risks and challenges. Contributions on these topics from all areas of software development are welcome, especially those where AI methods have not yet been or have not been sufficiently explored. The practical application of neuro-symbolic approaches, as previously described, is expressly encouraged. The workshop is aimed at researchers and scientists, as well as developers and practitioners from industry.
+The goals of this workshop are as follows: 
+- to discuss current and potentially new application areas of generative AI in software engineering,
+- to discuss challenges in the use of generative AI methods in software engineering, 
+- to propose and validate solutions to the aforementioned risks and challenges. 
+
+Contributions on these topics from all areas of software development are welcome, especially those where AI methods have not yet been or have not been sufficiently explored. The practical application of neuro-symbolic approaches, as previously described, is expressly encouraged. The workshop is aimed at researchers and scientists, as well as developers and practitioners from industry.
 
 ## Organisation
 - [Prof.(FH) Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano), Professor (FH), [IMC Krems University of Applied Sciences](https://www.imc.ac.at/).
