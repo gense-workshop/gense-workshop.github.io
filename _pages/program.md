@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programm
-permalink: /programm/
+title: Program
+permalink: /program/
 ---
 
 <link rel="stylesheet" href="/css/schedule.css">
@@ -11,7 +11,7 @@ permalink: /programm/
         <div class="ml-auto mr-auto text-left">
             <div class="section section-team text-center">
                 <div class="container">
-                    <h1 class="title text-center">Workshop Program</h1>
+                    <h1 class="title text-center">Workshop Program (tentative)</h1>
                     <br>
                 </div>
                 
@@ -22,26 +22,24 @@ permalink: /programm/
                     </tr>
                     <tr>
                         <td class="time">14:10 - 14:40 </td>
-                        <td class="session">Keynote: Thomas Natschläger (Dynatrace)
+                        <td class="session">Keynote
                             <br>
-                            <span class="title">Title: Generative AI and Software Intelligence</span>
+                            <span class="title">Title TBD</span>
                             <br>
-                            <span class="sub-title">Abstract: I would like to talk about this from two perspectives:
-                                How to use generative AI to generate DQL (Dynatrace query language designed for analytics in the observability domain): requirements, challenges, open questions from an industrial point of view.
-                                How to shape an observability product towards AI observability.
+                            <span class="sub-title">Abstract
                             </span>
                         </td>
                     </tr>
                     <tr>
                         <td class="time">14:40 - 15:10 </td>
-                        <td class="session">Phillip Kogler, Andreas Falkner, Simon Sperl
+                        <td class="session">Presentation contributions
                             <br>
-                            <span class="title">Reliable Generation of Formal Specifications Using Large Language Models</span>
+                            <span class="title">TBD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="time">15:10 - 15:30</td>
-                        <td class="session">Reflexion round & questions</td>
+                        <td class="session">Presentation contributions</td>
                     </tr>
                     <tr>
                         <td class="time">15:30 - 16:00 </td>
@@ -52,24 +50,24 @@ permalink: /programm/
                     </tr>
                     <tr>
                         <td class="time">16:00 - 16:10 </td>
-                        <td class="session">Dr. Rubén Ruiz-Torrubiano
+                        <td class="session">Keynote
                             <br>
-                            <span class="title">Introduction to Generative AI in Software Engineering Teaching</span>
+                            <span class="title">TBD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="time">16:10 - 16:40 </td>
-                        <td class="session">Prof. Dr. Kurt Schneider
+                        <td class="session">Presentation contributions
                             <br>
-                            <span class="title">Presentation of challenges and issues of Generative AI in current SE teaching</span>
+                            <span class="title">TBD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="time">16:40 - 17:30 </td>
-                        <td class="session">Panel discussion: Generative AI in SE teaching
+                        <td class="session">Panel discussion
                             <br>
                             <span class="sub-title">Panel discussion with experts from academia and industry about current challenges involving
-                            Generative AI in teaching informatics in higher education.
+                            Generative AI in software engineering.
                             </span>
                         </td>
                     </tr>
