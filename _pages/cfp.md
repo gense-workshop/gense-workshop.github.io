@@ -26,7 +26,7 @@ Researchers and practitioners are invited to submit contributions to the followi
 - Paper submission: October 28 2024 (AoE)
 - Author notifications: November 28 2024 (AoE)  
 - Camera-ready version: December 9 2024 (AoE)  
-- Workshop: February 24-25 2024
+- Workshop: February 24-25 2025
 
 ### Guidelines
 - Contributions (6-12 pages) will be sent via Easychar using the following [link](https://easychair.org/conferences/?conf=gense2024).
