@@ -29,12 +29,12 @@ Researchers and practitioners are invited to submit contributions to the followi
 - Workshop: February 24-25 2025
 
 ### Guidelines
-- Contributions (6-12 pages) will be sent via Easychar using the following [link](https://easychair.org/conferences/?conf=gense2024).
+- Contributions (6-12 pages) will be sent via Easychar using the following [link](https://easychair.org/conferences/?conf=gense2025).
 - Contributions can be submitted in German or English language.
 - All contributions shall use the GI [LNI-Template](https://github.com/gi-ev/LNI) (single-column A4 format).
 - All contributions will be peer-reviewed by the program committee. Accepted papers will be published in the conference proceedings (Digital Library der Gesellschaft für Informatik (GI e.V.). 
 
-At least one of the authors has to register and attend the workshop to present their contribution (registration deadline: Dec 1 2023).
+At least one of the authors has to register and attend the workshop to present their contribution (registration deadline: Dec 1 2024).
 
 For all questions/problems please refer to the workshop organizers: [Prof.(FH) Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano)
 
