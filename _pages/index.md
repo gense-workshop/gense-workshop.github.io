@@ -3,17 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: GenSE 2025
 permalink: /
 ---
 
 # 2nd Workshop on Generative and Neurosymbolic AI in Software Engineering (GenSE 2025)
 
-<center><font size="5"><b>February 24-25 2025, Karlsruhe Institute of Technology </b></font></center>
+<center><font size="5"><b>February 24-25 2025, Karlsruhe Institute of Technology, Germany </b></font></center>
 
 <p></p>
 <h3><b>Important dates</b></h3>
-- Paper submission: October 28 2024 (AoE)
+- Paper submission: <s>October 28 2024 (AoE)</s> <font color="red"><b>Deadline extension: November 4 2024 (AoE)</b></font>
 - Author notifications: November 28 2024 (AoE)  
 - Camera-ready version: December 9 2024 (AoE)  
 - Workshop: February 24-25 2025
