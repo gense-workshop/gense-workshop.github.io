@@ -9,7 +9,7 @@ permalink: /
 
 # 2nd Workshop on Generative and Neurosymbolic AI in Software Engineering (GenSE 2025)
 
-<center><font size="5"><b>February 24-25 2025, Karlsruhe Institute of Technology, Germany </b></font></center>
+<center><font size="5"><b>February 25 2025, Karlsruhe Institute of Technology, Germany </b></font></center>
 
 <p></p>
 <h3><b>Important dates</b></h3>

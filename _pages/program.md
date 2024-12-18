@@ -17,11 +17,11 @@ permalink: /program/
                 
                 <table class="schedule">
                     <tr>
-                        <td class="time">14:00 - 14:10</td>
+                        <td class="time">09:00 - 09:10</td>
                         <td class="session">Workshop Opening</td>
                     </tr>
                     <tr>
-                        <td class="time">14:10 - 14:40 </td>
+                        <td class="time">09:10 - 09:40 </td>
                         <td class="session">Keynote
                             <br>
                             <span class="title">Title TBD</span>
@@ -31,39 +31,39 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">14:40 - 15:10 </td>
+                        <td class="time">09:40 - 10:10 </td>
                         <td class="session">Presentation contributions
                             <br>
                             <span class="title">TBD</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">15:10 - 15:30</td>
+                        <td class="time">10:10 - 10:30</td>
                         <td class="session">Presentation contributions</td>
                     </tr>
                     <tr>
-                        <td class="time">15:30 - 16:00 </td>
+                        <td class="time">10:30 - 11:00 </td>
                         <td class="session">Coffee Break</td>
                     </tr>
                     <tr>
                         <td colspan="2"><hr /></td>
                     </tr>
                     <tr>
-                        <td class="time">16:00 - 16:10 </td>
+                        <td class="time">11:00 - 11:10 </td>
                         <td class="session">Keynote
                             <br>
                             <span class="title">TBD</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">16:10 - 16:40 </td>
+                        <td class="time">11:10 - 11:40 </td>
                         <td class="session">Presentation contributions
                             <br>
                             <span class="title">TBD</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">16:40 - 17:30 </td>
+                        <td class="time">11:40 - 12:30 </td>
                         <td class="session">Panel discussion
                             <br>
                             <span class="sub-title">Panel discussion with experts from academia and industry about current challenges involving
@@ -72,7 +72,7 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">17:30 - 18:00</td>
+                        <td class="time">12:30 - 13:00</td>
                         <td class="session">Reflexion round & end of workshop</td>
                     </tr>
                 </table>
