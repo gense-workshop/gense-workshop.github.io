@@ -16,7 +16,7 @@ permalink: /
 - Paper submission: <s>October 28 2024 (AoE)</s> <font color="red"><b>Deadline extension: November 4 2024 (AoE)</b></font>
 - Author notifications: November 28 2024 (AoE)  
 - Camera-ready version: December 9 2024 (AoE)  
-- Workshop: February 24-25 2025
+- Workshop: February 25, 2025 (morning)
 
 
 ## Motivation

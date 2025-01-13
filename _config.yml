@@ -41,6 +41,7 @@ header_pages:
 
 include:
   - _pages
+  - _includes
 
 exclude: 
     - .gitignore

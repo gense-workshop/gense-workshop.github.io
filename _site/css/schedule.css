@@ -48,3 +48,10 @@
     color: #0c041a;
     font-size: 90%;
 }
+
+.schedule .session .authors {
+    font-weight: bold;
+    font-style: italic;
+    color: #0c041a;
+    font-size: 90%;
+}
