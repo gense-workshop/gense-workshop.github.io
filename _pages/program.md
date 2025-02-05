@@ -46,7 +46,14 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">10:10 - 10:30</td>
+                        <td class="time">10:10 - 10:40 </td>
+                        <td class="session">Coffee Break</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><hr /></td>
+                    </tr>
+                    <tr>
+                        <td class="time">10:40 - 11:10</td>
                         <td class="session">Presentation of accepted contribution
                             <br>
                             <span class="title">Stories Complicate Things: A Qualitative Analysis of Coding Problems (Un)solved by GitHub Copilot</span>
@@ -54,15 +61,10 @@ permalink: /program/
                             <span class="authors">Julian Oertel (University of Rostock), Jil Klünder (Leibniz University Hannover) and Regina Hebig (University of Rostock)</span>
                         </td>
                     </tr>
+                    
+                    
                     <tr>
-                        <td class="time">10:30 - 11:00 </td>
-                        <td class="session">Coffee Break</td>
-                    </tr>
-                    <tr>
-                        <td colspan="2"><hr /></td>
-                    </tr>
-                    <tr>
-                        <td class="time">11:00 - 11:30 </td>
+                        <td class="time">11:10 - 11:40 </td>
                         <td class="session">Keynote
                             <br>
                             <span class="title">AI-Assisted Correctness-by-Construction Software Development</span>
@@ -74,7 +76,7 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">11:30 - 12:00 </td>
+                        <td class="time">11:40 - 12:10 </td>
                         <td class="session">Presentation of accepted contribution
                             <br>
                             <span class="title">On the logical (in)consistency of code-generating LLMs</span>
@@ -83,7 +85,7 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">12:00 - 12:30</td>
+                        <td class="time">12:10 - 12:30</td>
                         <td class="session">Reflexion round & end of workshop</td>
                     </tr>
                 </table>
