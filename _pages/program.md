@@ -45,15 +45,9 @@ permalink: /program/
                             <span class="authors">Philipp Kogler, Wei Chen and Stefan Wallner (Siemens Österreich)</span>
                         </td>
                     </tr>
+                    
                     <tr>
-                        <td class="time">10:10 - 10:40 </td>
-                        <td class="session">Coffee Break</td>
-                    </tr>
-                    <tr>
-                        <td colspan="2"><hr /></td>
-                    </tr>
-                    <tr>
-                        <td class="time">10:40 - 11:10</td>
+                        <td class="time">10:10 - 10:40</td>
                         <td class="session">Presentation of accepted contribution
                             <br>
                             <span class="title">Stories Complicate Things: A Qualitative Analysis of Coding Problems (Un)solved by GitHub Copilot</span>
@@ -61,7 +55,13 @@ permalink: /program/
                             <span class="authors">Julian Oertel (University of Rostock), Jil Klünder (Leibniz University Hannover) and Regina Hebig (University of Rostock)</span>
                         </td>
                     </tr>
-                    
+                    <tr>
+                        <td class="time">10:40 - 11:10</td>
+                        <td class="session">Coffee Break</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><hr /></td>
+                    </tr>
                     
                     <tr>
                         <td class="time">11:10 - 11:40 </td>
