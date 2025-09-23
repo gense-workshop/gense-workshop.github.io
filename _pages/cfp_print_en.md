@@ -1,5 +1,5 @@
 # Call for Papers
-## Workshop Generative and Neurosymbolic AI in Software Engineering (GenSE 2024)
+## Workshop Generative and Neurosymbolic AI in Software Engineering (GenSE 2026)
 
 Generative AI models that generate source code or structured data are becoming important tools in software engineering. However, erroneous or incorrect outputs can cause faults leading to errors in software applications. In this workshop we will discuss these risks and approaches to solve them. In particular, neurosymbolic methods that combine data-driven learning systems and symbolic, logical approaches represent a promising path.
 
@@ -19,18 +19,18 @@ Researchers and practitioners are invited to submit contributions to the followi
 -   AIOps
 
 ### Important dates
-- <font color="ff0000">Paper submission: <s>October 27 2023</s> <b>November 11 2023 (AoE)</b></font> 
-- Author notifications: November 22 2023  
-- Camera-ready version: December 1 2023  
-- Workshop date: February 26 2024
+- Paper submission: November 3 2025 (AoE)
+- Author notifications: November 28 2025 (AoE)  
+- Camera-ready version: December 9 2025 (AoE)  
+- Workshop: February 24 2026
 
 ### Guidelines
-- Contributions (6-12 pages) will be sent via Easychar using the following [link](https://easychair.org/conferences/?conf=gense2024).
+- Contributions (6-12 pages including references) will be sent via Easychar using the following [link](https://easychair.org/conferences/?conf=gense2026).
 - Contributions can be submitted in German or English language.
 - All contributions shall use the GI [LNI-Template](https://github.com/gi-ev/LNI) (single-column A4 format).
 - All contributions will be peer-reviewed by the program committee. Accepted papers will be published in the conference proceedings (Digital Library der Gesellschaft für Informatik (GI e.V.). 
 
-At least one of the authors has to register and attend the workshop to present their contribution (registration deadline: Dec 1 2023).
+At least one of the authors has to register and attend the workshop to present their contribution (registration deadline: Dec 1 2025).
 
-For all questions/problems please refer to the workshop organizers: [Dr. Rubén Ruiz Torrubiano](https://www.fh-krems.ac.at/fachhochschule/team/ruben-ruiz-torrubiano/)
+For all questions/problems please refer to the workshop organizers: [Prof.(FH) Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano)
 

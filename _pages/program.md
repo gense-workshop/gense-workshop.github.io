@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Gense'25 Workshop Program
+title: Gense'26 Workshop Program
 permalink: /program/
 ---
 
+<center><font size="5"><b>Under construction!</b></font></center>
+
+<!--
 <link rel="stylesheet" href="/css/schedule.css">
 
 <div class="col-md-8 ml-auto mr-auto text-left">
@@ -93,3 +96,4 @@ permalink: /program/
         </div>
     </div>
 </div>
+-->
