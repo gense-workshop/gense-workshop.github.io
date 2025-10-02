@@ -15,6 +15,7 @@ These are the program committee members for GenSE 2025:
 - Rubén Ruiz Torrubiano, Professor (FH), IMC Krems University of Applied Sciences.
 - Konstantin Schekotihin, Assoc. Professor, Universität Klagenfurt.
 - Danilo Valerio, Senior Scientist, Siemens AG Österreich.
+- Simon Steyskal, Senior Scientist, Siemens AG Österreich.
 
 
 

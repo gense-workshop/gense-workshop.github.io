@@ -13,9 +13,9 @@ permalink: /
 
 <p></p>
 <h3><b>Important dates</b></h3>
-- Paper submission: <b>November 3 2025 (AoE)</b>
-- Author notifications: <b>November 28 2025 (AoE)</b>  
-- Camera-ready version: <b>December 9 2025 (AoE)</b>
+- Paper submission: <b>November 10 2025 (AoE)</b>
+- Author notifications: <b>December 5 2025 (AoE)</b>  
+- Camera-ready version: <b>December 12 2025 (AoE)</b>
 - Workshop: <b>February 24, 2026 (morning)</b>
 
 
