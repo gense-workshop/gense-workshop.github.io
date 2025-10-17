@@ -16,6 +16,8 @@ These are the program committee members for GenSE 2025:
 - Konstantin Schekotihin, Assoc. Professor, Universität Klagenfurt.
 - Danilo Valerio, Senior Scientist, Siemens AG Österreich.
 - Simon Steyskal, Senior Scientist, Siemens AG Österreich.
+- Ashish Shubham, Fellow of Engineering, ThoughtSpot, San Francisco, USA.
+
 
 
 
