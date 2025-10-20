@@ -17,7 +17,7 @@ These are the program committee members for GenSE 2025:
 - Danilo Valerio, Senior Scientist, Siemens AG Österreich.
 - Simon Steyskal, Senior Scientist, Siemens AG Österreich.
 - Ashish Shubham, Fellow of Engineering, ThoughtSpot, San Francisco, USA.
-
+- Sayantan Ghosh, Senior Engineering Manager, LinkedIn, USA.
 
 
 
