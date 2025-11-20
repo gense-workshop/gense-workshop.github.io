@@ -20,7 +20,7 @@ Researchers and practitioners are invited to submit contributions to the followi
 -   AIOps.
 
 ### Important dates
-- Paper submission: November 10 2025 (AoE)
+- Paper submission: November 24 2025 (AoE)
 - Author notifications: December 5 2025 (AoE)  
 - Camera-ready version: December 12 2025 (AoE)  
 - Workshop Date: February 24 2026

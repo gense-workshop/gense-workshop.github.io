@@ -19,7 +19,7 @@ Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folge
 -   AIOps
 
 ### Wichtige Termine
-- Einreichungsfrist: 10.11.2025 (AoE)
+- Einreichungsfrist: 24.11.2025 (AoE)
 - Benachrichtigungen: 05.12.2025 (AoE)
 - Finale Version: 12.12.2025 (AoE)
 - Datum des Workshops: 24.02.2026
