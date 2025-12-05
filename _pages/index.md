@@ -16,7 +16,7 @@ permalink: /
 - Paper submission: <s>November 10 2025 (AoE)</s> <b>November 24 2025 (AoE)</b>
 - Author notifications: <b>December 5 2025 (AoE)</b>  
 - Camera-ready version: <b>December 12 2025 (AoE)</b>
-- Workshop: <b>February 24, 2026 (morning)</b>
+- Workshop: <b>February 24, 2026 (afternoon)</b>
 
 
 ## Motivation
