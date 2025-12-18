@@ -15,7 +15,8 @@ permalink: /
 <h3><b>Important dates</b></h3>
 - Paper submission: <s>November 10 2025 (AoE)</s> <b>November 24 2025 (AoE)</b>
 - Author notifications: <b>December 5 2025 (AoE)</b>  
-- Camera-ready version: <b>December 12 2025 (AoE)</b>
+- Camera-ready version: <s>December 12 2025 (AoE)</s> <b>December 19 2025 (AoE)</b>
+- Early bird registration: <b>January 17 2026</b> [Link to registration](https://se2026.inf.unibe.ch/de/attendance/registration/)
 - Workshop: <b>February 24, 2026 (afternoon)</b>
 
 
