@@ -4,9 +4,7 @@ title: Gense'26 Workshop Program
 permalink: /program/
 ---
 
-<center><font size="5"><b>Under construction!</b></font></center>
 
-<!--
 <link rel="stylesheet" href="/css/schedule.css">
 
 <div class="col-md-8 ml-auto mr-auto text-left">
@@ -20,46 +18,42 @@ permalink: /program/
                 
                 <table class="schedule">
                     <tr>
-                        <td class="time">09:00 - 09:10</td>
+                        <td class="time">13:00 - 13:10</td>
                         <td class="session">Workshop Opening</td>
                     </tr>
                     <tr>
-                        <td class="time">09:10 - 09:40 </td>
+                        <td class="time">13:10 - 13:45 </td>
                         <td class="session">Keynote
                             <br>
-                            <span class="title">The Real Impact of AI Tools on Software Development: An Industry Perspective</span>
-                            <span class="authors">Steve Haupt, Andrena</span>
+                            <span class="title">From Hype to Engineering Reality — Navigating GenAI Adoption in Software Projects</span>
                             <br>
-                            <span class="sub-title">AI tooling is transforming software engineering, offering unprecedented
-                                opportunities for innovation and efficiency, but it also brings
-                                significant risks. This talk provides an industry perspective on the
-                                spectrum of AI tools in use today, showcasing what is possible when
-                                cutting-edge tools are embraced to their full potential, and the
-                                measurable efficiency gains they deliver.
+                            <span class="authors">Zoran Roncevic, Adnovum</span>
+                            <br>
+                            <span class="sub-title">Generative AI is quickly becoming part of everyday software engineering practice, yet many organizations struggle to turn early experimentation into sustainable engineering capability. This keynote examines the gap between GenAI hype and production reality, focusing on architectural, governance, and quality challenges observed in real-world projects. Drawing on hands-on experience from large-scale software environments, the talk shows how architects can guide responsible adoption through clear boundaries, integration patterns, and validation mechanisms. It offers practical guidance on balancing productivity gains with maintainability, reliability, and long-term system integrity when GenAI becomes part of the engineering toolchain, across teams and evolving delivery constraints.
                             </span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">09:40 - 10:10 </td>
+                        <td class="time">13:45 - 14:20 </td>
                         <td class="session">Presentation of accepted contribution
                             <br>
-                            <span class="title">Code Generation for Niche Programming Languages with Large Language Models</span>
+                            <span class="title">Towards neuro-symbolic constrained decoding for reliable code generation with LLMs</span>
                             <br>
-                            <span class="authors">Philipp Kogler, Wei Chen and Stefan Wallner (Siemens Österreich)</span>
+                            <span class="authors">Philipp Kogler, Wei Chen and Alois Haselböck (Siemens Österreich)</span>
                         </td>
                     </tr>
                     
                     <tr>
-                        <td class="time">10:10 - 10:40</td>
+                        <td class="time">14:10 - 15:00</td>
                         <td class="session">Presentation of accepted contribution
                             <br>
-                            <span class="title">Stories Complicate Things: A Qualitative Analysis of Coding Problems (Un)solved by GitHub Copilot</span>
+                            <span class="title">Can LLMs Fool Themselves?</span>
                             <br>
-                            <span class="authors">Julian Oertel (University of Rostock), Jil Klünder (Leibniz University Hannover) and Regina Hebig (University of Rostock)</span>
+                            <span class="authors">Roman Machacek and Timo Kehrer (University of Bern)</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">10:40 - 11:10</td>
+                        <td class="time">15:00 - 15:30</td>
                         <td class="session">Coffee Break</td>
                     </tr>
                     <tr>
@@ -67,28 +61,28 @@ permalink: /program/
                     </tr>
                     
                     <tr>
-                        <td class="time">11:10 - 11:40 </td>
+                        <td class="time">15:30 - 16:05 </td>
                         <td class="session">Keynote
                             <br>
-                            <span class="title">AI-Assisted Correctness-by-Construction Software Development</span>
+                            <span class="title">Designing Agentic Loops that Actually Ship</span>
                             <br>
-                            <span class="authors">Maximilian Kodetzki, Karlsruhe Institute of Technology</span>
+                            <span class="authors">Chirag Agrawal, Amazon Web Services</span>
                             <br>
-                            <span class="sub-title">In recent years, research on artificial intelligence has made great progress. AI-tools are getting better in simulating human reasoning and behavior every day. We discuss the extent to which AI-tools can support Correctness-by-Construction (CbC) engineering. This is an approach of formal methods for developing functionally correct programs incrementally on the basis of a formal specification. Using sound refinement rules, the correctness of the constructed program can already be guaranteed in the development process. We analyze the CbC development process regarding steps for potential AI-tool support in the tool CorC, which implements CbC. We classify the findings in five areas of interest: refinement process, specification generation, code generation, deductive verification, and interpretation. Based on existing work, expert knowledge, and prototypical experiments, we discuss for each of the areas whether and to what extent AI-tools can support CbC software development. We address the risk of AI-tools in formal methods and present our vision of AI-integration in the tool CorC to support developers in constructing programs using CbC engineering.
+                            <span class="sub-title">Agentic AI systems are closed loop programs that plan, invoke tools, evaluate results, and iterate until a goal is met, yet there is great deal of depth involved in running them sustainably in production. This session presents a practical framework for designing that loop for production. We focus on the ReAct as the foundation for tool-based agents and multi-agent collaboration, disciplined tool selection and reliable routing, and the operational realities of deploying agents at scale. We address context rot in multi-turn conversations and share robust context management practices that keep agents on track. We also cover cost control in multi-turn systems and techniques that improve perceived latency, including prompt caching and context compression. Attendees leave with a concise checklist, actionable patterns, and guardrails they can apply immediately to ship resilient agentic features.
                             </span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">11:40 - 12:10 </td>
+                        <td class="time">16:05 - 16:40 </td>
                         <td class="session">Presentation of accepted contribution
                             <br>
-                            <span class="title">On the logical (in)consistency of code-generating LLMs</span>
+                            <span class="title">LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities</span>
                             <br>
-                            <span class="authors">Ke Dong, William Hsu, Pascal Hitzler and Eugene Vasserman (Kansas State University, USA)</span>
+                            <span class="authors">Yongjian Tang and Thomas Runkler (Siemens AG, Technical University of Munich)</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">12:10 - 12:30</td>
+                        <td class="time">16:40 - 17:00</td>
                         <td class="session">Reflexion round & end of workshop</td>
                     </tr>
                 </table>
@@ -96,4 +90,3 @@ permalink: /program/
         </div>
     </div>
 </div>
--->
