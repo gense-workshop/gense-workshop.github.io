@@ -18,11 +18,11 @@ permalink: /program/
                 
                 <table class="schedule">
                     <tr>
-                        <td class="time">13:00 - 13:10</td>
+                        <td class="time">13:30 - 13:40</td>
                         <td class="session">Workshop Opening</td>
                     </tr>
                     <tr>
-                        <td class="time">13:10 - 13:45 </td>
+                        <td class="time">13:40 - 14:10 </td>
                         <td class="session">Keynote
                             <br>
                             <span class="title">From Hype to Engineering Reality — Navigating GenAI Adoption in Software Projects</span>
@@ -34,7 +34,7 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">13:45 - 14:20 </td>
+                        <td class="time">14:10 - 14:35 </td>
                         <td class="session">Presentation of accepted contribution
                             <br>
                             <span class="title">Towards neuro-symbolic constrained decoding for reliable code generation with LLMs</span>
@@ -44,7 +44,7 @@ permalink: /program/
                     </tr>
                     
                     <tr>
-                        <td class="time">14:10 - 15:00</td>
+                        <td class="time">14:35 - 15:00</td>
                         <td class="session">Presentation of accepted contribution
                             <br>
                             <span class="title">Can LLMs Fool Themselves?</span>
@@ -73,7 +73,7 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">16:05 - 16:40 </td>
+                        <td class="time">16:05 - 16:30 </td>
                         <td class="session">Presentation of accepted contribution
                             <br>
                             <span class="title">LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities</span>
@@ -82,7 +82,7 @@ permalink: /program/
                         </td>
                     </tr>
                     <tr>
-                        <td class="time">16:40 - 17:00</td>
+                        <td class="time">16:30 - 17:00</td>
                         <td class="session">Reflexion round & end of workshop</td>
                     </tr>
                 </table>
