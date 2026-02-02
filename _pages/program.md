@@ -37,9 +37,9 @@ permalink: /program/
                         <td class="time">14:10 - 14:35 </td>
                         <td class="session">Presentation of accepted contribution
                             <br>
-                            <span class="title">Towards neuro-symbolic constrained decoding for reliable code generation with LLMs</span>
+                            <span class="title">LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities</span>
                             <br>
-                            <span class="authors">Philipp Kogler, Wei Chen and Alois Haselböck (Siemens Österreich)</span>
+                            <span class="authors">Yongjian Tang and Thomas Runkler (Siemens AG, Technical University of Munich)</span>
                         </td>
                     </tr>
                     
@@ -76,9 +76,9 @@ permalink: /program/
                         <td class="time">16:05 - 16:30 </td>
                         <td class="session">Presentation of accepted contribution
                             <br>
-                            <span class="title">LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities</span>
+                            <span class="title">Towards neuro-symbolic constrained decoding for reliable code generation with LLMs</span>
                             <br>
-                            <span class="authors">Yongjian Tang and Thomas Runkler (Siemens AG, Technical University of Munich)</span>
+                            <span class="authors">Philipp Kogler, Wei Chen and Alois Haselböck (Siemens Österreich)</span>
                         </td>
                     </tr>
                     <tr>
