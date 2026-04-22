@@ -64,11 +64,12 @@ permalink: /program/
                         <td class="time">15:30 - 16:05 </td>
                         <td class="session">Keynote
                             <br>
-                            <span class="title">Designing Agentic Loops that Actually Ship</span>
+                            <span class="title">Neurosymbolic Reasoning in LLMs</span>
                             <br>
-                            <span class="authors">Chirag Agrawal, Amazon Web Services</span>
+                            <span class="authors">Rubén Ruiz-Torrubiano, IMC Krems University of Applied Sciences, Austria</span>
                             <br>
-                            <span class="sub-title">Agentic AI systems are closed loop programs that plan, invoke tools, evaluate results, and iterate until a goal is met, yet there is great deal of depth involved in running them sustainably in production. This session presents a practical framework for designing that loop for production. We focus on the ReAct as the foundation for tool-based agents and multi-agent collaboration, disciplined tool selection and reliable routing, and the operational realities of deploying agents at scale. We address context rot in multi-turn conversations and share robust context management practices that keep agents on track. We also cover cost control in multi-turn systems and techniques that improve perceived latency, including prompt caching and context compression. Attendees leave with a concise checklist, actionable patterns, and guardrails they can apply immediately to ship resilient agentic features.
+                            <span class="sub-title">We present how Large Language Models (LLM) and Large Reasoning Models (LRM) perform reasoning and how the paradigm of Neurosymbolic AI
+                            can help in grounding reasoning and improving robustness for software engineering problems.
                             </span>
                         </td>
                     </tr>
