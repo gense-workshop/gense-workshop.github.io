@@ -17,6 +17,13 @@ editions:
         url: /program/
       - title: Committee
         url: /pc/
+    sponsors:
+      - name: IMC Krems University of Applied Sciences
+        img: /img/imc-logo.png
+        width: 200
+      - name: Siemens Österreich
+        img: /img/siemens-logo.png
+        width: 200
 
   - year: 2026
     label: "2026"
@@ -32,3 +39,13 @@ editions:
         url: /2026/program/
       - title: Committee
         url: /2026/pc/
+    sponsors:
+      - name: IMC Krems University of Applied Sciences
+        img: /img/imc-logo.png
+        width: 200
+      - name: Siemens Österreich
+        img: /img/siemens-logo.png
+        width: 200
+      - name: Adnovum
+        img: /img/adnovum-logo.png
+        width: 300

@@ -1,15 +1,29 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
+  {%- assign current_edition = nil -%}
+  {%- for edition in site.data.years.editions -%}
+    {%- unless edition.default -%}
+      {%- if page.url contains edition.url -%}
+        {%- assign current_edition = edition -%}
+      {%- endif -%}
+    {%- endunless -%}
+  {%- endfor -%}
+  {%- unless current_edition -%}
+    {%- for edition in site.data.years.editions -%}
+      {%- if edition.default -%}{%- assign current_edition = edition -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endunless -%}
+
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p>Supported by:</p>
         <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-          <img src="/img/imc-logo.png" alt="IMC Krems University of Applied Sciences" style="width: 200px; height: auto;">
-          <img src="/img/siemens-logo.png" alt="Siemens Österreich" style="width: 200px; height: auto;">
-          <img src="/img/adnovum-logo.png" alt="Adnovum" style="width: 300px; height: auto;">
+          {%- for sponsor in current_edition.sponsors -%}
+          <img src="{{ sponsor.img | relative_url }}" alt="{{ sponsor.name | escape }}" style="width: {{ sponsor.width }}px; height: auto;">
+          {%- endfor -%}
         </div>
       {%- if site.author %}
         <ul class="contact-list">
