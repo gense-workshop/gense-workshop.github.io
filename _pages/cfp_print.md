@@ -1,5 +1,5 @@
 # Call for Papers
-## Workshop Generative und Neurosymbolische KI im Software-Engineering (GenSE 2027)
+## Workshop Generative, Agentic und Neurosymbolische KI im Software-Engineering (GenSE 2027)
 
 Generative KI-Modelle zur Generierung von Computer-Code oder strukturierter Daten werden zunehmend wichtige Werkzeuge im Software-Engineering. Fehlerhafte Outputs können jedoch Programmfehler und Schaden in den Anwendungen bewirken. In diesem Workshop werden diese Risiken und verschiedene Lösungsansätze diskutiert. Zum Beispiel können neuro-symbolische Methoden, also die Kombination von lernenden Systemen und symbolischen, logischen Ansätzen, vielversprechend sein.
 

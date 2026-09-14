@@ -1,5 +1,5 @@
 # Call for Papers
-## Workshop Generative and Neurosymbolic AI in Software Engineering (GenSE 2027)
+## Workshop Generative, Agentic and Neurosymbolic AI in Software Engineering (GenSE 2027)
 
 Generative AI models that generate source code or structured data are becoming important tools in software engineering. However, erroneous or incorrect outputs can cause faults leading to errors in software applications. In this workshop we will discuss these risks and approaches to solve them. In particular, neurosymbolic methods that combine data-driven learning systems and symbolic, logical approaches represent a promising path.
 
