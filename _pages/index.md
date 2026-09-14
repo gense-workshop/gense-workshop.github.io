@@ -13,9 +13,9 @@ permalink: /
 
 <p></p>
 <h3><b>Important dates</b></h3>
-- Paper submission: <b>TBD</b>
-- Author notifications: <b>TBD</b>
-- Camera-ready version: <b>TBD</b>
+- Paper submission: <b>October 21, 2026 (AoE)</b>
+- Author notifications: <b>November 25, 2026 (AoE)</b>
+- Camera-ready version: <b>December 9, 2026 (AoE)</b>
 - Early bird registration: <b>TBD</b>
 - Workshop: <b>February 23, 2027 (afternoon)</b>
 

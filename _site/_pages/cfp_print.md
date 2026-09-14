@@ -19,9 +19,9 @@ Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folge
 -   AIOps
 
 ### Wichtige Termine
-- Einreichungsfrist: TBD
-- Benachrichtigungen: TBD
-- Finale Version: TBD
+- Einreichungsfrist: 21.10.2026 (AoE)
+- Benachrichtigungen: 25.11.2026 (AoE)
+- Finale Version: 09.12.2026 (AoE)
 - Datum des Workshops: 23.02.2027
 
 ### Guidelines

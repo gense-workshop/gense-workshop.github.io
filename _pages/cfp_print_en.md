@@ -20,9 +20,9 @@ Researchers and practitioners are invited to submit contributions to the followi
 -   AIOps.
 
 ### Important dates
-- Paper submission: TBD
-- Author notifications: TBD
-- Camera-ready version: TBD
+- Paper submission: October 21, 2026 (AoE)
+- Author notifications: November 25, 2026 (AoE)
+- Camera-ready version: December 9, 2026 (AoE)
 - Workshop Date: February 23 2027
 
 ### Guidelines
