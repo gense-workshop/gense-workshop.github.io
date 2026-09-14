@@ -1,0 +1,32 @@
+# Workshop editions available on the site.
+# `default: true` marks the edition that lives at the site root ("/").
+# Add a new entry here (and a matching folder under _pages/<year>/) when
+# archiving the current edition to start working on a new one.
+editions:
+  - year: 2027
+    label: "2027"
+    url: /
+    default: true
+    nav:
+      - title: Home
+        url: /
+      - title: Call for Papers
+        url: /cfp/
+      - title: Program
+        url: /program/
+      - title: Committee
+        url: /pc/
+
+  - year: 2026
+    label: "2026"
+    url: /2026/
+    default: false
+    nav:
+      - title: Home
+        url: /2026/
+      - title: Call for Papers
+        url: /2026/cfp/
+      - title: Program
+        url: /2026/program/
+      - title: Committee
+        url: /2026/pc/

@@ -1,5 +1,5 @@
 # Call for Papers
-## Workshop Generative und Neurosymbolische KI im Software-Engineering (GenSE 2026)
+## Workshop Generative und Neurosymbolische KI im Software-Engineering (GenSE 2027)
 
 Generative KI-Modelle zur Generierung von Computer-Code oder strukturierter Daten werden zunehmend wichtige Werkzeuge im Software-Engineering. Fehlerhafte Outputs können jedoch Programmfehler und Schaden in den Anwendungen bewirken. In diesem Workshop werden diese Risiken und verschiedene Lösungsansätze diskutiert. Zum Beispiel können neuro-symbolische Methoden, also die Kombination von lernenden Systemen und symbolischen, logischen Ansätzen, vielversprechend sein.
 
@@ -19,17 +19,17 @@ Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folge
 -   AIOps
 
 ### Wichtige Termine
-- Einreichungsfrist: 24.11.2025 (AoE)
-- Benachrichtigungen: 05.12.2025 (AoE)
-- Finale Version: 12.12.2025 (AoE)
-- Datum des Workshops: 24.02.2026
+- Einreichungsfrist: TBD
+- Benachrichtigungen: TBD
+- Finale Version: TBD
+- Datum des Workshops: 23.02.2027
 
 ### Guidelines
-- Die Einreichung eines Beitrags (6-12 Seiten inkl. Referenzen) erfolgt über EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=gense2026).
+- Die Einreichung eines Beitrags (6-12 Seiten inkl. Referenzen) erfolgt über EasyChair (Link wird noch bekannt gegeben).
 - Einreichungen können auf Deutsch oder Englisch erfolgen.
 - Alle Einreichungen sollen original und nicht bei anderen Tracks/Konferenzen bereits eingereicht worden sein.
 - Als Format sollte die GI [LNI-Vorlage](https://github.com/gi-ev/LNI) (1-spaltiges A4-Format) verwendet werden.
 - Alle Einreichungen werden einem Peer-Review durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden als gemeinsamer Tagungsband in der Digital Library der Gesellschaft für Informatik (GI e.V.) publiziert. 
 
-Für angenommene Einreichungen wird von mindestens einer:m der Autor:Innen eine Registrierung für den Workshop (Deadline: 1.12.2025) und die Präsentation der Arbeit erwartet. Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: [Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano)
+Für angenommene Einreichungen wird von mindestens einer:m der Autor:Innen eine Registrierung für den Workshop (Deadline: TBD) und die Präsentation der Arbeit erwartet. Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: [Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano)
 

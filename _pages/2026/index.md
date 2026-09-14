@@ -3,21 +3,21 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: GenSE 2027
-permalink: /
+title: GenSE 2026
+permalink: /2026/
 ---
 
-# 4th Workshop on Generative and Neurosymbolic AI in Software Engineering (GenSE 2027)
+# 3nd Workshop on Generative and Neurosymbolic AI in Software Engineering (GenSE 2026)
 
-<center><font size="5"><b>February 23, 2027, TU Dortmund, Germany</b></font></center>
+<center><font size="5"><b>February 24 2026, Bern, Switzerland</b></font></center>
 
 <p></p>
 <h3><b>Important dates</b></h3>
-- Paper submission: <b>TBD</b>
-- Author notifications: <b>TBD</b>
-- Camera-ready version: <b>TBD</b>
-- Early bird registration: <b>TBD</b>
-- Workshop: <b>February 23, 2027 (afternoon)</b>
+- Paper submission: <s>November 10 2025 (AoE)</s> <b>November 24 2025 (AoE)</b>
+- Author notifications: <b>December 5 2025 (AoE)</b>  
+- Camera-ready version: <s>December 12 2025 (AoE)</s> <b>December 19 2025 (AoE)</b>
+- Early bird registration: <b>January 17 2026</b> [Link to registration](https://se2026.inf.unibe.ch/de/attendance/registration/)
+- Workshop: <b>February 24, 2026 (afternoon)</b>
 
 
 ## Motivation
