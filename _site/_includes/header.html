@@ -38,7 +38,7 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ current_edition.url | relative_url }}">{{ current_edition.site_title | default: site.title | escape }}</a>
 
     {%- if current_edition.nav -%}
       <nav class="site-nav">

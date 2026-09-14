@@ -5,6 +5,7 @@
 editions:
   - year: 2027
     label: "2027"
+    site_title: "GenSE 2027"
     url: /
     default: true
     nav:
@@ -19,6 +20,7 @@ editions:
 
   - year: 2026
     label: "2026"
+    site_title: "GenSE 2026"
     url: /2026/
     default: false
     nav:
