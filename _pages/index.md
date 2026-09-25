@@ -24,7 +24,11 @@ permalink: /
 
 Generative methods have significantly shaped the field of Artificial Intelligence (AI), starting with the release of [ChatGPT](https://chatgpt.com), followed by [GPT-4](https://arxiv.org/abs/2303.08774), [GPT-5](https://cdn.openai.com/gpt-5-system-card.pdf) and extending to open-source models like [Llama-3](https://arxiv.org/abs/2407.21783) and the [Llama-4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) herd of models. Many of these developments stem from [advancements](https://arxiv.org/abs/1706.03762) in the transformer architecture. When a transformer is trained with a large amount of textual or multi-modal data, which can result in models with millions of parameters, it is referred to as a Large Language Model (LLM). Although the transformer architecture and the underlying attention mechanism originated in the field of machine translation, most current applications have become popular as chatbots or copilots. These applications have also demonstrated that generative models can not only process natural language very well but also generate code in common programming languages like Python or Java (e.g., [Codex](https://arxiv.org/abs/2107.03374) or [AlphaCode](https://arxiv.org/abs/2203.07814)). The automatic generation of computer code based on a description in natural language can be considered as the first application of generative AI in software development. Recently, reasoning models like [DeepSeek R1](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) have proven to be extremely helpful at solving tasks for which automatic verification is possible, like computer programming and math. 
 
-However, the practical use of generative models carries important risks, since the correctness and reliability of such models' outputs cannot be guaranteed. In high-risk applications like healthcare, this can have catastrophic consequences. In software development, the use of generative models may result in software bugs or security vulnerabilities. Currently, various approaches, such as [evaluation frameworks](https://arxiv.org/abs/2302.04012), integrating [tools into the LLM output](https://arxiv.org/abs/2205.12255), and [causality](https://arxiv.org/abs/2112.02505), are being investigated to prevent these problems. The combination of symbolic learning and reasoning methods with deep learning systems is referred to as [neuro-symbolic AI](https://arxiv.org/abs/2012.05876). These approaches are particularly promising when it comes to making the results of generative AI reliable and explainable by incorporating structured domain knowledge and logical reasoning methods.
+However, the practical use of generative models carries important risks, since the correctness and reliability of such models' outputs cannot be guaranteed. In high-risk applications like healthcare, this can have catastrophic consequences. In software development, the use of generative models may result in software bugs or security vulnerabilities. 
+
+Various approaches are being explored to address these challenges, including more robust [evaluation frameworks](https://arxiv.org/abs/2302.04012), the incorporation of [symbolic reasoning into LLM pipelines](https://www.mdpi.com/2674-113X/5/3/33), the integration of [external tools with LLMs](https://arxiv.org/abs/2205.12255), and the coupling of LLMs with [causal AI techniques](https://arxiv.org/abs/2112.02505).
+
+These approaches are particularly promising when it comes to making the results of generative AI reliable and explainable by incorporating structured domain knowledge and logical reasoning methods.
 
 ## Goals of the Workshop 
 The goals of this workshop are as follows: 
@@ -36,6 +40,6 @@ Contributions on these topics from all areas of software development are welcome
 
 ## Organisation
 - [Prof.(FH) Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano), Professor (FH), [IMC Krems University of Applied Sciences](https://www.imc.ac.at/).
-- Dr. Simon Steyskal, Senior Scientist, Siemens AG Österreich.
-- Dr. Danilo Valerio, Senior Scientist, Siemens AG Österreich.
+- Dipl.-Ing. Simon Steyskal, Senior Research Scientist, Siemens AG Österreich.
+- Dr. Danilo Valerio, Principal Key Expert, Siemens AG Österreich.
 
