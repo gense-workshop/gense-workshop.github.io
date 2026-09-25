@@ -30,11 +30,15 @@ Researchers and practitioners are invited to submit contributions to the followi
 - Workshop Date: **February 23, 2027**
 
 ### Guidelines
-- Contributions (6-12 pages including references) will be sent via Easychair (submission link to be announced).
+- Contributions will be sent via Easychair (submission link to be announced).
+- Types of contributions
+    - **Full papers** (6-12 pages including references): Represent original research in the scope of the workshop.
+    - **Short papers** (max. 4 pages including references): Describes promising ongoing work and early results.  
+    - **Tutorials** (max. 2 pages): Description of an interactive session within the workshop where a specific technology or approach will be demonstrated. Both industrial and academic tutorials are welcome.
 - Contributions can be submitted in German or English language.
 - All contributions have to be original work and not already submitted to other tracks/conferences.
 - All contributions shall use the GI [LNI-Template](https://github.com/gi-ev/LNI) (single-column A4 format).
-- All contributions will be peer-reviewed by the program committee. Accepted papers will be published in the conference proceedings (Digital Library der Gesellschaft für Informatik (GI e.V.). 
+- All contributions will be peer-reviewed by the program committee. Accepted papers will be published in the conference proceedings (Digital Library der Gesellschaft für Informatik (GI e.V.)). 
 
 At least one of the authors has to register and attend the workshop to present their contribution (registration deadline: TBD).
 
