@@ -38,6 +38,9 @@ The goals of this workshop are as follows:
 
 Contributions on these topics from all areas of software development are welcome, especially those where AI methods have not yet been or have not been sufficiently explored. The practical application of neuro-symbolic approaches, as previously described, is expressly encouraged. The workshop is aimed at researchers and scientists, as well as developers and practitioners from industry.
 
+**New:** This year we will invite selected contributions to submit an extended version to the Research Topic *Automated Reliable Reasoning and Verification Using Neurosymbolic Approaches for Software Engineering*, to be published in [Frontiers in Computer Science](https://www.frontiersin.org/research-topics/84751).
+
+
 ## Organisation
 - [Prof.(FH) Dr. Rubén Ruiz Torrubiano](https://research.imc.ac.at/de/persons/ruben-ruiz-torrubiano), Professor (FH), [IMC Krems University of Applied Sciences](https://www.imc.ac.at/).
 - Dipl.-Ing. Simon Steyskal, Senior Research Scientist, Siemens AG Österreich.
