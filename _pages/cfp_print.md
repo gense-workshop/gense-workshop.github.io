@@ -19,13 +19,13 @@ Beiträge sowohl aus dem akademischen Umfeld als auch aus der Industrie zu folge
 -   AIOps
 
 ### Wichtige Termine
-- Einreichungsfrist: 21.10.2026 (AoE)
-- Benachrichtigungen: 25.11.2026 (AoE)
-- Finale Version: 09.12.2026 (AoE)
+- Einreichungsfrist: 01.12.2026 (AoE)
+- Benachrichtigungen: 21.12.2026 (AoE)
+- Finale Version: 05.01.2027 (AoE)
 - Datum des Workshops: 23.02.2027
 
 ### Guidelines
-- Die Einreichung eines Beitrags (6-12 Seiten inkl. Referenzen) erfolgt über EasyChair (Link wird noch bekannt gegeben).
+- Die Einreichung eines Beitrags (6-12 Seiten inkl. Referenzen) erfolgt über EasyChair ([Link for submission](https://easychair.org/conferences/?conf=gense2027)).
 - Einreichungen können auf Deutsch oder Englisch erfolgen.
 - Alle Einreichungen sollen original und nicht bei anderen Tracks/Konferenzen bereits eingereicht worden sein.
 - Als Format sollte die GI [LNI-Vorlage](https://github.com/gi-ev/LNI) (1-spaltiges A4-Format) verwendet werden.

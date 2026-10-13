@@ -26,9 +26,9 @@ Researchers and practitioners are invited to submit contributions to the followi
 **New:** This year we will invite selected contributions to submit an extended version to the Research Topic *Automated Reliable Reasoning and Verification Using Neurosymbolic Approaches for Software Engineering*, to be published in [Frontiers in Computer Science](https://www.frontiersin.org/research-topics/84751).
 
 ### Important dates
-- Paper submission: **October 21, 2026 (AoE)**
-- Author notifications: **November 25, 2026 (AoE)**
-- Camera-ready version: **December 9, 2026 (AoE)**
+- Paper submission: **December 1, 2026 (AoE)**
+- Author notifications: **December 21, 2026 (AoE)**
+- Camera-ready version: **January 5, 2027 (AoE)**
 - Workshop Date: **February 23, 2027**
 
 ### Guidelines

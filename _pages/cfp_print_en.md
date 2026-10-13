@@ -20,13 +20,13 @@ Researchers and practitioners are invited to submit contributions to the followi
 -   AIOps.
 
 ### Important dates
-- Paper submission: October 21, 2026 (AoE)
-- Author notifications: November 25, 2026 (AoE)
-- Camera-ready version: December 9, 2026 (AoE)
+- Paper submission: December 1, 2026 (AoE)
+- Author notifications: December 21, 2026 (AoE)
+- Camera-ready version: January 5, 2027 (AoE)
 - Workshop Date: February 23 2027
 
 ### Guidelines
-- Contributions (6-12 pages including references) will be sent via Easychair (submission link to be announced).
+- Contributions (6-12 pages including references) will be sent via Easychair ([Link for submission](https://easychair.org/conferences/?conf=gense2027)).
 - Contributions can be submitted in German or English language.
 - All contributions have to be original work and not already submitted to other tracks/conferences.
 - All contributions shall use the GI [LNI-Template](https://github.com/gi-ev/LNI) (single-column A4 format).
