@@ -32,7 +32,7 @@ Researchers and practitioners are invited to submit contributions to the followi
 - Workshop Date: **February 23, 2027**
 
 ### Guidelines
-- Contributions will be sent via Easychair (submission link to be announced).
+- Contributions will be sent via Easychair ([Link for submission](https://easychair.org/conferences/?conf=gense2027)).
 - Types of contributions
     - **Full papers** (6-12 pages including references): Represent original research in the scope of the workshop.
     - **Short papers** (max. 4 pages including references): Describes promising ongoing work and early results.  
