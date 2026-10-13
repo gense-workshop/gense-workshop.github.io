@@ -7,6 +7,10 @@ title: GenSE 2027
 permalink: /
 ---
 
+<p align="center">
+  <img src="/img/gense_logo.png" alt="GenSE 2027 — 4th Workshop on Generative, Agentic and Neurosymbolic AI in Software Engineering, February 23, 2027, TU Dortmund, Germany" style="max-width: 300px; width: 100%; height: auto; display: block; margin: 0 auto;">
+</p>
+
 # 4th Workshop on Generative, Agentic and Neurosymbolic AI in Software Engineering (GenSE 2027)
 
 <center><font size="5"><b>February 23, 2027, TU Dortmund, Germany</b></font></center>
